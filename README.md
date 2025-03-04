@@ -8,7 +8,7 @@ This repository hosts the materials and workflow prepared for the master’s the
 
 The process is developed on Google Earth Engine via Colaboratory Notebook, which online version is available here https://colab.research.google.com/drive/1f4f8smWhSSeURFhs04Qw5z7bDVZf5dJO?usp=sharing.
 
-The outputs of our analysis are displayed via an interactive HQ Observable tool available here https://observablehq.com/@ulgeovisualization/damage-assesment-using-sar, offering insights into the strengths and limits of the approach at the building level accross various parameters. HQ Observable is a collaborative data visualization and analysis platform using JavaScript. It allows to share data inractively with dynamic visualizations and computational notebooks.
+The outputs of our analysis are displayed via an interactive HQ Observable tool available here https://observablehq.com/@ulgeovisualization/damage-assessment-using-sar, offering insights into the strengths and limits of the approach at the building level accross various parameters. HQ Observable is a collaborative data visualization and analysis platform using JavaScript. It allows to share data inractively with dynamic visualizations and computational notebooks.
 
 
 ## Getting Started
