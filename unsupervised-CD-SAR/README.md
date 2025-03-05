@@ -30,9 +30,12 @@ Replace `'ee-with your GEE project ID'` .
 Computing time is of 3 min to obtain temporal change maps + 8 minutes to obtain metrics. 
 
 
-## Outputs
+## Outputs and Results
 - Image Collections imprints.
+- 
+  <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/6394272c1c23fc889875d8391780b277cd5a4370/unsupervised-CD-SAR/fig/Imprints_Frames.jpg" alt="aois"  height="500">
 - Temporal Signatures: interactive chart displaying the mean intensity for each building footprint over time, with distinct polarization types and relative orbits.
+  
 - Z-scores results for temporal signatures.
 - Histograms of values from omnibus tests: performed simultaneously for all pixels of both our building footprint datasets and the whole AOIs, simultaneously for entire sequences of images pre- and during event, compared with the theoretical chi-square distribution.
 - Change maps for single polarization (not included in paper).
