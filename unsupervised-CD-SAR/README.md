@@ -3,16 +3,7 @@
 
 The omnibus likelihood ratio test statistic offers several advantages: it is unsupervised, accounts for the statistical properties of speckled data, incorporates the multilooking process inherent to SAR imagery and allow to control the false positive rate.
 
-To determine where and when a change has occurred in our time series, we implemented a sequential omnibus tests algorithm assessing the overall differences between distributions at multiple times. We obtain temporal change maps that allow to represent the timeline of occurrences of change. We infer the cause of the change related to the disaster event using our building datasets to obtain metrics. At last, we compared these outputs at the building level with their corresponding temporal signatures across various parameters.
-
-
-Then, a sequence of omnibus tests is used to determine where and when a change has occurred in our time series (section 5.3.2). 
-
-This produces temporal change maps of the most recent, the first, and the frequency of changes. We measure the disaster impact with counts related to our building datasets to obtain metrics. At last, we will compare these outputs at the building level with their corresponding temporal signatures across various parameters.
-
-
-we implemented the omnibus test to assess changes across the time series for the entire study area and within both Destroyed and Non-destroyed building footprints. Changes were effectively detected within the Destroyed footprints accross the event sequence. Subsequently, a sequential algorithm of omnibus tests is used to determine where and when a change has occurred. 
-
+A sequence of omnibus tests is used to determine where and when a change has occurred in our Sentinel-1 time series. We obtain temporal change maps that allow to represent the timeline of occurrences of change. We infer the cause of the change related to the disaster event using our building datasets to obtain metrics. At last, we compared these outputs at the building level with their corresponding temporal signatures across various parameters.
 
 ## Getting Started
 
