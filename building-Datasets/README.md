@@ -6,4 +6,7 @@ From the review of the CEMS building assessment, we describe the process followe
 
 ## Schema 
 
-<img src="https://github.com/Augustin-Ma/AssessingDamage/blob/1a9854722848378964661c5f427f08acbcfa78c1/unsupervised-CD-SAR/fig/methodology_mean.png" alt="framework">
+<img src="https://github.com/Augustin-Ma/AssessingDamage/blob/503c80eb94afffdb1229532d309373a95c78bd19/building-Datasets/fig/visual_analysis.png" alt="process" height="600" >
+
+
+<img src="https://github.com/Augustin-Ma/AssessingDamage/blob/503c80eb94afffdb1229532d309373a95c78bd19/building-Datasets/fig/Cases.png" alt="cases" height="600" >
