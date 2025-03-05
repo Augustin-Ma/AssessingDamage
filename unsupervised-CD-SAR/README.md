@@ -44,7 +44,7 @@ Computing time is of 3 min to obtain temporal change maps + 8 minutes to obtain 
 - Change maps for single polarization (not included in paper).
 - Change maps for dual polarization.
 
- <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/d04e44fa7dcfa137f7949709f6483fce6388df4c/unsupervised-CD-SAR/fig/change_maps.png" alt="cmaps"  height="820">
+ <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/973262d5df763bc7cd2666ba802ca27219b2b56a/unsupervised-CD-SAR/fig/change_maps.png" alt="cmaps"  height="820">
 
 - Number of buildings containing changes within their footprint ( -> metrics).
 
