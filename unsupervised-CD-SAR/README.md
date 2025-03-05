@@ -1,5 +1,6 @@
 ## Getting Started
 
+The project uses Google Earth Engine Python API to process Sentinel-1 imagery. 
 From Colaboratory Notebook, access to a Google Earth Engine account with necessary permissions:
 
 Update the project placeholder to ee.Initialize() line in first cell 
