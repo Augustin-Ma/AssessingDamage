@@ -11,4 +11,5 @@ From the review of the CEMS building assessment, we produced a reliable dataset 
 ## Review 
 
 Overview of Cases encountered during review of CEMS products.
+
 <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/503c80eb94afffdb1229532d309373a95c78bd19/building-Datasets/fig/Cases.png" alt="cases" height="600" >
