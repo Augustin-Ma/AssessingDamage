@@ -3,7 +3,7 @@
 ## Context
 This work explores how to assess building damage after the 2023 seismic event in Turkey. 
 
-The first part focus on constructing a reliable dataset of Destroyed and Non-destroyed building footprints by reviewing CEMS rapid mapping products through visual analysis of VHR optical imagery, and ancillary data such as OSM footprints. From those 750 footprints, a buffer of 20m is shaped around to take in account co-registration of Sentinel-1 images, possible offsets or double bounce effects in urban areas. 
+First, we focus on constructing a reliable dataset of Destroyed and Non-destroyed building footprints by reviewing CEMS rapid mapping products through visual analysis of VHR optical imagery, and ancillary data such as OSM footprints. From those 750 footprints, a buffer of 20m is shaped around to take in account co-registration of Sentinel-1 images, possible offsets or double bounce effects in urban areas. 
 
 Using Sentinel-1 imagery, a time series of the mean backscatter intensity within the footprint of each destroyed building is evaluated to assess the change of trend after event. 
 
