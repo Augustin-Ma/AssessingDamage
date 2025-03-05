@@ -37,12 +37,15 @@ Computing time is of 3 min to obtain temporal change maps + 8 minutes to obtain 
   
 - Temporal Signatures: interactive chart displaying the mean intensity for each building footprint over time, with distinct polarization types and relative orbits.
 
- <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/a30e94f5ea5a27df352e0b2f33c59c811bdc49a5/unsupervised-CD-SAR/fig/signatures2.png" alt="signatures"  height="500">
+ <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/a30e94f5ea5a27df352e0b2f33c59c811bdc49a5/unsupervised-CD-SAR/fig/signatures2.png" alt="signatures"  height="300">
 
 - Z-scores results for temporal signatures.
 - Histograms of values from omnibus tests: performed simultaneously for all pixels of both our building footprint datasets and the whole AOIs, simultaneously for entire sequences of images pre- and during event, compared with the theoretical chi-square distribution.
 - Change maps for single polarization (not included in paper).
 - Change maps for dual polarization.
-- Number of buildings containing changes within their footprint.
+
+ <img src="https://github.com/Augustin-Ma/AssessingDamage/blob/d04e44fa7dcfa137f7949709f6483fce6388df4c/unsupervised-CD-SAR/fig/change_maps.png" alt="signatures"  height="500">
+
+- Number of buildings containing changes within their footprint ( -> metrics).
 
 N.B. Ancillary informations are displayed throughout the process to ensure results reliability.
