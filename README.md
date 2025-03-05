@@ -25,3 +25,4 @@ The overall methodological framework is described in the following schema:
 
 ## Author
 Augustin Martinet
+(email : augustin.martinet@outlook.com)
